@@ -1,6 +1,5 @@
-## Hi there 👋
 
-# 💫 About Me:
+# About Me:
 Building scalable full-stack web applications with modern architectures, focusing on performance, clean APIs, and production-ready systems using React, Node.js, FastAPI, and PostgreSQL.<br>Open-source projects, SaaS products, and real-world problem-solving applications involving full-stack development, backend APIs, system design, or developer tooling.<br>React.js, Node.js, FastAPI, REST APIs, MongoDB, PostgreSQL, backend architecture, full-stack project structuring, and debugging production issues.<br>I enjoy turning complex problems into simple, maintainable solutions and I believe clean code is a form of good communication.<br>
 
 
