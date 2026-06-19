@@ -2,6 +2,12 @@
 # About Me:
 Building scalable full-stack web applications with modern architectures, focusing on performance, clean APIs, and production-ready systems using React, Node.js, FastAPI, and PostgreSQL.<br>Open-source projects, SaaS products, and real-world problem-solving applications involving full-stack development, backend APIs, system design, or developer tooling.<br>React.js, Node.js, FastAPI, REST APIs, MongoDB, PostgreSQL, backend architecture, full-stack project structuring, and debugging production issues.<br>I enjoy turning complex problems into simple, maintainable solutions and I believe clean code is a form of good communication.<br>
 
+## 📝 Engineering Deep Dives
+I write about scaling backend architecture and solving database bottlenecks.
+
+* **[My Comment System Was Fine Until I Stress Tested It](https://dev.to/vaibhav1811/my-comment-system-was-fine-until-i-stress-tested-it-heres-what-broke-and-the-sql-that-fixed-it-5foc):** 
+  How I bypassed FastAPI/SQLAlchemy ORM traps, fixed N+1 queries, and used PostgreSQL window functions to achieve O(1) constant-time page loads for deeply nested threads.
+
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/vaibhav18.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaaibhaav9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vaibhavsharma993@gmail.com) 
